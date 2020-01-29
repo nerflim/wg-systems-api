@@ -3,7 +3,7 @@ WG Systems API - ASP.Net Core
 
 * A simple Web API using ASP.Net Core
 * API Authentication using JWT
-* CRUD API Endpoints
+* CRUD API Endpoints with Entity Framework as ORM
 * API Documented by Swagger
 
 ## Authentication
